@@ -1,0 +1,157 @@
+@media(max-width:1400px){
+    .block5-text{
+        right: 0;
+    }
+    .block5-image{
+        left: 100px;
+    }
+
+}
+
+
+
+
+
+@media(max-width:1200px){
+    .block5-text{
+        width: 500px;
+        right: 0;
+        top: 300px;
+    }
+    .block5-image{
+        width: 500px;
+        left: 100px;
+    }
+    .block5-blue{
+        width: 500px;
+    }
+
+
+
+    .block6{
+        margin-top: 800px;  
+    }
+}
+
+
+
+
+
+@media(max-width:992px){
+    .block1-mini{
+        width: 42%;
+    }
+
+    .block7-img{
+        height: 450px;
+    }
+}
+
+
+
+
+
+@media(max-width:768px){
+    .block1-mini{
+        width: 70%;
+    }
+    .background{
+        background-size: cover;
+    }
+    .mini-squares{
+        justify-content: space-evenly;
+    }
+
+
+    .block5-text{
+        width: 450px;
+        right: 0;
+        top: 400px;
+    }
+    .block5-image{
+        width: 450px;
+        left: 50px;
+    }
+    .block5-blue{
+        width: 450px;
+        top: 100px;
+    }
+
+
+    .block6{
+        margin-top: 900px;  
+    }
+
+    .block7-img{
+        height: 400px;
+    }
+}
+
+
+
+@media(max-width:576px){
+
+    .block5-text{
+        width: 400px;
+        height: fit-content;
+        right: 0;
+        top: 400px;
+    }
+    .block5-image{
+        width: 350px;
+        height: 400px;
+        left: 50px;
+
+    }
+    .block5-blue{
+        width: 350px;
+        top: 100px;
+    }
+    .block7-img{
+        height: 300px;
+    }
+}
+
+
+
+
+
+@media(max-width:425px){
+    .block1-mini{
+        width: 100%;
+    }
+
+    .block5-text{
+        width: 300px;
+        height: 400px;
+        right: 0;
+        top: 400px;
+    }
+    .block5-image{
+        width: 270px;
+        height: 400px;
+
+        left: 30px;
+    }
+    .block5-blue{
+        width: 250px;
+        height: 350px;
+        top: 100px;
+    }
+    .block5-text h5{
+        line-height: 20px;
+        font-size: 16px;
+    
+    }
+    .block5-text p{
+        color: gray;
+        font-size: 13px;
+        line-height: 20px;
+
+    }
+
+
+    .block7-img{
+        height: 200px;
+    }
+}
